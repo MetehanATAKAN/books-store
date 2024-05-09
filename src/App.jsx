@@ -1,11 +1,12 @@
 import './App.css'
+import Home from './pages/Home'
 
 const App  = () => {
   
   return (
-    <>
-      Books store
-    </>
+    <div>
+      <Home/>
+    </div>
   )
 }
 
