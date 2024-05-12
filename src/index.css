@@ -6,3 +6,11 @@ body {
   background-color: #F3F2EC;
   color: #757575;
 }
+
+.section-screen {
+  @apply max-w-screen-xl text-center mx-auto my-0 p-8 bg-[#F3F2EC];
+}
+
+.bg-section {
+  background-color: #EDEBE4;
+}
